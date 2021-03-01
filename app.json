@@ -1,0 +1,12 @@
+{
+  "name": "fas",
+  "displayName": "fas",
+  "expo": {
+    "name": "fas",
+    "slug": "fas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

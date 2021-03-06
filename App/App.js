@@ -36,7 +36,8 @@ export const HomeViewPager = () => {
 
 const styles = StyleSheet.create({
   tab: {
-    height: 192,
+    flex: 1,
+    flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'center',
   },

@@ -10,7 +10,7 @@ import { ManagerScreen } from './components/manager';
 
 export const HomeViewPager = () => {
 
-  const [selectedIndex, setSelectedIndex] = React.useState(0);
+  const [selectedIndex, setSelectedIndex] = React.useState(1);
 
   return (
     <ViewPager
@@ -40,8 +40,6 @@ const styles = StyleSheet.create({
   tab: {
     flex: 1,
     flexDirection: 'column',
-    // alignItems: 'center',
-    // justifyContent: 'center',
   },
 });
 

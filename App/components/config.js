@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native';
 import { Divider, Layout, Text } from '@ui-kitten/components';
 
 
-export const DetailsScreen = () => {
+export const ConfigScreen = () => {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <Divider/>
